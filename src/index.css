@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.JobsCss{
+  color: rgb(255, 0, 0);
+  margin:0 0 0 50px;
+  font-weight: 700;
+
+}
+
+.container{
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
